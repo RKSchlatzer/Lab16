@@ -16,12 +16,12 @@
             <h1>Create your own list of Inspirational Words &amp Phrases</h1>
         </div>
         <div class="mainBody">
-<span class="buttons">
+<div class="buttons">
         <button ng-click="addWords()">Words</button>
         <button ng-click="addWordsStyle()">Words with Style</button>
         <button ng-click="addPhrase()">Phrases</button>
         <button ng-click="addPhraseStyle()">Phrases with Style</button>
-</span>
+</div>
         <ul>
             <li ng-repeat="added in newContent" class="ng-class : {{added.style}}">{{added.pushed}}</li>
         </ul>

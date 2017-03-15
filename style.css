@@ -1,5 +1,5 @@
 .mainHeader {
-    color: #8FBC8F;
+    color: #708090;
     font-family: 'Bungee Shade', cursive;
     text-align: center;
 }
@@ -9,18 +9,16 @@
     width: 75%;
     height: 2000px;
     border-radius: 2em;
-    background-color: #8FBC8F;
+    background-color: #708090;
     color: white;
+    font-size: 200%;
 }
 
 .buttons {
-  margin: 0 auto;
-  padding-top: 50px;
-  margin-top: 15px;
-}
-.style {
-    background-color: blue;
-    color: yellow;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 15px;
 }
 
 li {
@@ -30,72 +28,79 @@ li {
     margin: 2px;
     padding: 4px;
     font-family: 'Lato';
+    font-style: italic;
+    padding-left: 3px;
 }
 
 .one {
-    color: white;
-    background-color: #0000FF;
-    text-decoration: underline;
     font-family: cursive;
+    background-color: #0000FF;
+    color: white;
+    text-decoration: overline;
+    padding-left: 3px;
 }
 
 .two {
+    font-family: 'Tahoma';
     background-color: #473198;
     color: white;
-    text-decoration: overline;
-    font-family: 'Delius Unicase', cursive;
+    padding-left: 3px;
 }
 
 .three {
-    color: lightpink;
-    background-color: aquamarine;
-    text-decoration: line-through;
-    font-family: 'Oswald', sans-serif;
+    font-family: sans-serif;
+    background-color: 	#FAEBD7;
+    color: red;;
+    padding-left: 3px;
 }
 
 .four {
-    color: mediumslateblue;
-    background-color: pink;
+    background-color: #228B22;
+    color: white;
     font-style: italic;
-    font-family: 'Bungee Inline', cursive;
+    padding-left: 3px;
 }
 
 .five {
-    color: mediumvioletred;
-    background-color: lightcyan;
+    text-decoration: underline;
     font-weight: bold;
-    font-family: 'Ranga', cursive;
+    padding-left: 3px;
 }
 
 .six {
-    color: teal;
-    background-color: lightpink;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Impact';
+    background-color: purple;
+    color: grey;
+    padding-left: 3px;
 }
 
 .seven {
-    color: violet;
-    background-color: lavender;
-    font-family: 'Lobster', cursive;
+    font-family: 'Georgia';
+    background-color: white;
+    color: red;
+    padding-left: 3px;
 }
 
 .eight {
-    color: yellowgreen;
-    background-color: #daffed;
+    font-family: 'Lucida Console';
+    background-color: #4169E1;
+    color: white;
+    opacity: .8;
     text-decoration: underline;
-    font-family: 'Gloria Hallelujah', cursive;
+    padding-left: 3px;
 }
 
 .nine {
-    color: orchid;
-    background-color: mistyrose;
-    text-decoration: overline;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Courier New';
+    background-color: #B22222;
+    color: #B0E0E6;
+    text-decoration: underline   ;
+    padding-left: 3px;
 }
 
 .ten {
-    color: salmon;
+    font-family: 'Times New Roman', itallic;
     background-color: #9bf3f0;
-    text-decoration: line-through;
-    font-family: 'Shadows Into Light', cursive;
+    color: grey;
+    padding-left: 3px;
 }
