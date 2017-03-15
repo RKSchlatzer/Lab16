@@ -1,0 +1,101 @@
+.mainHeader {
+    color: #8FBC8F;
+    font-family: 'Bungee Shade', cursive;
+    text-align: center;
+}
+
+.mainBody {
+    margin: 0 auto;
+    width: 75%;
+    height: 2000px;
+    border-radius: 2em;
+    background-color: #8FBC8F;
+    color: white;
+}
+
+.buttons {
+  margin: 0 auto;
+  padding-top: 50px;
+  margin-top: 15px;
+}
+.style {
+    background-color: blue;
+    color: yellow;
+}
+
+li {
+    display: inline-block;
+    list-style: none;
+    line-height: 4vw;
+    margin: 2px;
+    padding: 4px;
+    font-family: 'Lato';
+}
+
+.one {
+    color: white;
+    background-color: #0000FF;
+    text-decoration: underline;
+    font-family: cursive;
+}
+
+.two {
+    background-color: #473198;
+    color: white;
+    text-decoration: overline;
+    font-family: 'Delius Unicase', cursive;
+}
+
+.three {
+    color: lightpink;
+    background-color: aquamarine;
+    text-decoration: line-through;
+    font-family: 'Oswald', sans-serif;
+}
+
+.four {
+    color: mediumslateblue;
+    background-color: pink;
+    font-style: italic;
+    font-family: 'Bungee Inline', cursive;
+}
+
+.five {
+    color: mediumvioletred;
+    background-color: lightcyan;
+    font-weight: bold;
+    font-family: 'Ranga', cursive;
+}
+
+.six {
+    color: teal;
+    background-color: lightpink;
+    font-family: 'Indie Flower', cursive;
+}
+
+.seven {
+    color: violet;
+    background-color: lavender;
+    font-family: 'Lobster', cursive;
+}
+
+.eight {
+    color: yellowgreen;
+    background-color: #daffed;
+    text-decoration: underline;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.nine {
+    color: orchid;
+    background-color: mistyrose;
+    text-decoration: overline;
+    font-family: 'Pacifico', cursive;
+}
+
+.ten {
+    color: salmon;
+    background-color: #9bf3f0;
+    text-decoration: line-through;
+    font-family: 'Shadows Into Light', cursive;
+}
