@@ -49,8 +49,9 @@ li {
 
 .three {
     font-family: sans-serif;
-    background-color: 	#FAEBD7;
-    color: red;;
+    background-color: #FAEBD7;
+    color: red;
+    ;
     padding-left: 3px;
 }
 
@@ -78,6 +79,7 @@ li {
     font-family: 'Georgia';
     background-color: white;
     color: red;
+    font-weight: bold;
     padding-left: 3px;
 }
 
@@ -94,7 +96,7 @@ li {
     font-family: 'Courier New';
     background-color: #B22222;
     color: #B0E0E6;
-    text-decoration: underline   ;
+    text-decoration: underline;
     padding-left: 3px;
 }
 
